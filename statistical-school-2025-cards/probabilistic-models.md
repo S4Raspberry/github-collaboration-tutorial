@@ -1,2 +1,2 @@
 # 機率模型 Probabilistic Models
-123
+A and B are independent.
